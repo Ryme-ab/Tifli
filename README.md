@@ -1,4 +1,4 @@
-<img width="529" height="472" alt="Tifli Logo " src="https://github.com/user-attachments/assets/1ad28cf1-95eb-4bb0-b6f3-af5d91fdeab6" />
+<img width="50" height="50" alt="Tifli Logo " src="https://github.com/user-attachments/assets/1ad28cf1-95eb-4bb0-b6f3-af5d91fdeab6" /> 
 # Tifli
 ### 🍼 Child Care Management Application
 
