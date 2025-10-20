@@ -24,29 +24,29 @@ Medication Schedule – Configure dosage details and enable alarm notifications.
 
 All tracking modules include integrated reminders and alert systems for event management.
 
-Feeding Tracker
+### Feeding Tracker
 
 Supports various feeding types: breast, bottle, and solid food.
 
 Records timestamps and quantities per session.
 
-Sleep Tracker
+###  Sleep Tracker
 
 Logs sleep and nap sessions.
 
 Computes total daily sleep duration.
 
-Vaccination Tracker
+### Vaccination Tracker
 
 Stores completed vaccinations and upcoming schedules.
 
 Sends automated reminders for pending doses.
 
-Medication Tracker
+### Medication Tracker
 
 Records dosage frequency and treatment history.
 
-Growth Tracker
+### Growth Tracker
 
 Tracks weight, height, and head circumference metrics.
 
