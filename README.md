@@ -1,5 +1,5 @@
-Tifli
-🍼 Child Care Management Application
+# Tifli
+### 🍼 Child Care Management Application
 
 Tifli is an integrated mobile solution designed to streamline the management of a child’s daily care, health monitoring, and developmental tracking.
 The system centralizes essential functionalities, including feeding and sleep tracking, vaccination scheduling, and growth analysis, within a unified interface.
