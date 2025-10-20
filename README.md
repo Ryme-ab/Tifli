@@ -1,7 +1,7 @@
-<img width="100" height="100" alt="Tifli Logo" src="https://github.com/user-attachments/assets/1ad28cf1-95eb-4bb0-b6f3-af5d91fdeab6" />
+<img width="150" height="150" alt="Tifli Logo" src="https://github.com/user-attachments/assets/1ad28cf1-95eb-4bb0-b6f3-af5d91fdeab6" />
+
+
 # Tifli
-
-
 ### 🍼 Child Care Management Application
 
 Tifli is an integrated mobile solution designed to streamline the management of a child’s daily care, health monitoring, and developmental tracking.
