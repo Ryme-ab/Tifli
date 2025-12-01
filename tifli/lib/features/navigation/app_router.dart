@@ -38,7 +38,7 @@ class AppRoutes {
   static const String home = '/home';
 
   // Schedules
-  static const String schedules = '/schedules';
+  static const String schedules = '/schedules_menu_screen.dart';
   static const String appointments = '/schedules/appointments';
   static const String appointmentForm = '/schedules/appointment-form';
   static const String appointmentDetails = '/schedules/appointment-details';
@@ -81,9 +81,9 @@ class AppRouter {
       case AppRoutes.splash:
         return MaterialPageRoute(builder: (_) => const SplashScreen());
       case AppRoutes.login:
-        return MaterialPageRoute(builder: (_) => const LoginScreen());
+        return MaterialPageRoute(builder: (_) => const LoginPage());
       case AppRoutes.home:
-        return MaterialPageRoute(builder: (_) => const HomeScreen());
+        return MaterialPageRoute(builder: (_) => const HomePage());
       
       // Schedules
       case AppRoutes.schedules:
