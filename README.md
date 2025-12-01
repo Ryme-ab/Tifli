@@ -2,71 +2,71 @@ Tifli – Child Care Mobile App
 
 A smart assistant to help parents monitor and take care of their children.
 
-🌟 Overview
+Overview
 
 Tifli is a mobile application designed to support parents in managing and monitoring their children’s daily needs.
 The app provides tools for tracking health, growth, nutrition, sleep, activities, appointments, and more—all in one place.
 
-The backend of the project is powered by Supabase, offering secure authentication, storage, and a relational database.
+The backend is powered by Supabase, providing secure authentication, storage, and a relational database.
 
-🚀 Features
-👶 Child Management
+Features
+Child Management
 
 Add and manage multiple children
 
 View child profile, age, birth date, and health information
 
-🩺 Health & Medical
+Health & Medical
 
-Keep medical records
+Store medical records
 
-Vaccination tracking with next-due dates
+Track vaccinations with next-due reminders
 
 Record doctor visits and diagnoses
 
-📏 Growth Tracking
+Growth Tracking
 
-Track height, weight, and head circumference over time
+Track height, weight, and head circumference
 
-Visualize growth evolution
+Visualize growth progress
 
-🍽 Nutrition & Meals
+Nutrition & Meals
 
 Log meals (milk, snacks, breakfast, etc.)
 
 Store nutritional notes and calorie estimates
 
-😴 Sleep Tracking
+Sleep Tracking
 
 Log sleep sessions
 
-Analyze sleep quality
+Monitor sleep quality
 
-🧸 Daily Activities
+Daily Activities
 
-Register activities like playtime, bath, diapers, etc.
+Register daily activities such as playtime, bath, and diaper changes
 
-View history of daily routines
+View history of routines
 
-🗓 Appointments
+Appointments
 
 Schedule pediatric appointments
 
-Mark appointments as done or canceled
+Mark appointments as completed or canceled
 
-🖼 Media Uploads
+Media Uploads
 
 Upload photos, videos, or documents for each child
 
-Store medical files and memories
+Store medical files or memories
 
-🔔 Notifications
+Notifications
 
 Alerts for vaccinations
 
-Reminders for appointments
+Appointment reminders
 
-🏗️ Tech Stack
+Tech Stack
 Frontend
 
 Flutter / Dart
@@ -81,16 +81,13 @@ PostgreSQL database
 
 Supabase Auth for user accounts
 
-Supabase Storage for photos & documents
+Supabase Storage for media files
 
 Row-Level Security (RLS)
 
 Real-time capabilities
 
-
-
-
-📁 Project Folder Structure (Flutter + Supabase)
+Project Folder Structure (Flutter + Supabase)
 tifli/
 │
 ├── lib/
