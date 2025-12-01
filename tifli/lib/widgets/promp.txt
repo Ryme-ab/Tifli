@@ -1,0 +1,152 @@
+warning - The value of the local variable 'maxVal' isn't used -
+       lib\features\logs\presentation\screens\feeding_logs_screen.dart:209:18 - unused_local_variable
+   info - Unnecessary use of 'toList' in a spread -
+          lib\features\logs\presentation\screens\sleeping_logs_screen.dart:114:47 - unnecessary_to_list_in_spreads
+warning - The value of the local variable 'totalSleep' isn't used -
+       lib\features\logs\presentation\screens\sleeping_logs_screen.dart:287:11 - unused_local_variable
+warning - The value of the local variable 'todaySleep' isn't used -
+       lib\features\logs\presentation\screens\sleeping_logs_screen.dart:288:11 - unused_local_variable
+   info - Statements in an if should be enclosed in a block -
+          lib\features\logs\presentation\screens\sleeping_logs_screen.dart:310:25 -
+          curly_braces_in_flow_control_structures
+  error - The name 'LoginScreen' isn't a class - lib\features\navigation\app_router.dart:84:56 - creation_with_non_type
+  error - The name 'HomeScreen' isn't a class - lib\features\navigation\app_router.dart:86:56 - creation_with_non_type
+  error - The name 'SouvenirsScreen' isn't a class - lib\features\navigation\app_router.dart:132:56 -
+         creation_with_non_type
+  error - The name 'CreateBabyScreen' isn't a class - lib\features\navigation\app_router.dart:148:56 -
+         creation_with_non_type
+  error - The name 'CreateProfileScreen' isn't a class - lib\features\navigation\app_router.dart:150:56 -
+         creation_with_non_type
+  error - The name 'MyBabiesScreen' isn't a class - lib\features\navigation\app_router.dart:152:56 -
+         creation_with_non_type
+  error - The name 'AdminDashboard' isn't a class - lib\features\navigation\app_router.dart:158:56 -
+         creation_with_non_type
+  error - Target of URI doesn't exist: '../widgets/appbar.dart' -
+         lib\features\profiles\presentation\screens\baby_profile_screen.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../core/constants/app_colors.dart' -
+         lib\features\profiles\presentation\screens\baby_profile_screen.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../core/constants/app_fonts.dart' -
+         lib\features\profiles\presentation\screens\baby_profile_screen.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../core/constants/app_assets.dart' -
+         lib\features\profiles\presentation\screens\baby_profile_screen.dart:6:8 - uri_does_not_exist
+  error - The name 'CustomAppBar' isn't a class -
+         lib\features\profiles\presentation\screens\baby_profile_screen.dart:21:21 - creation_with_non_type
+  error - Undefined name 'AppAssets' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:41:49 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:52:34 -      
+         undefined_identifier
+  error - Undefined name 'AppColors' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:55:36 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:61:34 -
+         undefined_identifier
+  error - Undefined name 'AppColors' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:63:36 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:120:56 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:134:61 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:136:40 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:146:54 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:148:43 -     
+         undefined_identifier
+  error - Undefined name 'AppColors' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:161:24 -    
+         undefined_identifier
+  error - Undefined name 'AppColors' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:163:43 -
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:171:55 -     
+         undefined_identifier
+  error - Undefined name 'AppFonts' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:181:28 -     
+         undefined_identifier
+  error - Undefined name 'AppColors' - lib\features\profiles\presentation\screens\baby_profile_screen.dart:197:36 -    
+         undefined_identifier
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after
+          v3.18.0-0.1.pre - lib\features\profiles\presentation\screens\create_baby_screen.dart:23:11 -
+          deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after     
+          v3.18.0-0.1.pre - lib\features\profiles\presentation\screens\create_baby_screen.dart:31:11 -
+          deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after     
+          v3.18.0-0.1.pre - lib\features\profiles\presentation\screens\create_baby_screen.dart:66:42 -
+          deprecated_member_use
+  error - The argument type 'bool' can't be assigned to the parameter type 'Color?'.  -
+         lib\features\profiles\presentation\screens\create_baby_screen.dart:247:52 - argument_type_not_assignable      
+  error - Too many positional arguments: 0 expected, but 2 found -
+         lib\features\profiles\presentation\screens\create_baby_screen.dart:250:29 -
+         extra_positional_arguments_could_be_named
+  error - Expected an identifier - lib\features\profiles\presentation\screens\create_baby_screen.dart:259:31 -
+         missing_identifier
+  error - Expected to find ':' - lib\features\profiles\presentation\screens\create_baby_screen.dart:259:31 -
+         expected_token
+  error - Expected to find ')' - lib\features\profiles\presentation\screens\create_baby_screen.dart:261:27 -
+         expected_token
+   info - 'dialogBackgroundColor' is deprecated and shouldn't be used. Use DialogThemeData.backgroundColor instead.    
+          This feature was deprecated after v3.27.0-0.1.pre -
+          lib\features\profiles\presentation\screens\create_baby_screen.dart:329:13 - deprecated_member_use
+  error - Target of URI doesn't exist: '../widgets/appbar.dart' -
+         lib\features\profiles\presentation\screens\my_babies_screen.dart:2:8 - uri_does_not_exist
+  error - The method 'CustomAppBar' isn't defined for the type 'MyBabiesPage' -
+         lib\features\profiles\presentation\screens\my_babies_screen.dart:10:15 - undefined_method
+   info - Don't use 'BuildContext's across async gaps -
+          lib\features\schedules\presentation\screens\appointment_details_screen.dart:147:42 -
+          use_build_context_synchronously
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:228:39 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:233:39 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:245:45 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:274:33 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:387:33 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:392:33 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:409:37 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:431:33 - invalid_null_aware_operator
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated 
+          after v3.31.0-2.0.pre - lib\features\schedules\presentation\screens\appointment_details_screen.dart:439:17 - 
+          deprecated_member_use
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:450:39 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:470:43 - invalid_null_aware_operator
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\appointment_details_screen.dart:513:35 - invalid_null_aware_operator
+warning - Unused import: 'package:tifli/widgets/addlog.dart' -
+       lib\features\schedules\presentation\screens\appointment_month_screen.dart:4:8 - unused_import
+   info - Unnecessary use of 'toList' in a spread -
+          lib\features\schedules\presentation\screens\appointment_week_screen.dart:148:14 -
+          unnecessary_to_list_in_spreads
+   info - Parameter 'key' could be a super parameter -
+          lib\features\schedules\presentation\screens\meal_planner_screen.dart:8:9 - use_super_parameters
+   info - Invalid use of a private type in a public API -
+          lib\features\schedules\presentation\screens\meal_planner_screen.dart:11:3 -
+          library_private_types_in_public_api
+   info - The private field _mealsByDate could be 'final' -
+          lib\features\schedules\presentation\screens\meal_planner_screen.dart:16:45 - prefer_final_fields
+warning - The declaration '_endOfWeek' isn't referenced -
+       lib\features\schedules\presentation\screens\meal_planner_screen.dart:205:16 - unused_element
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\meal_planner_screen.dart:250:39 - invalid_null_aware_operator       
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\meal_planner_screen.dart:258:49 - invalid_null_aware_operator       
+   info - Unnecessary use of multiple underscores -
+          lib\features\schedules\presentation\screens\meal_planner_screen.dart:266:49 - unnecessary_underscores        
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\meal_planner_screen.dart:348:45 - invalid_null_aware_operator       
+   info - Parameter 'key' could be a super parameter -
+          lib\features\schedules\presentation\screens\meal_planner_screen.dart:372:9 - use_super_parameters
+   info - Unnecessary use of 'toList' in a spread -
+          lib\features\schedules\presentation\screens\medicine_schedule_screen.dart:65:24 -
+          unnecessary_to_list_in_spreads
+   info - Unnecessary use of 'toList' in a spread -
+          lib\features\schedules\presentation\screens\medicine_schedule_screen.dart:74:24 -
+          unnecessary_to_list_in_spreads
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary -
+       lib\features\schedules\presentation\screens\shopping_list_screen.dart:287:41 - invalid_null_aware_operator      
+
+70 issues found. (ran in 166.2s)
